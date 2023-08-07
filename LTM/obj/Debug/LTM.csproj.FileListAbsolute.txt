@@ -1,0 +1,144 @@
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\LTM.dll.config
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\LTM.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\LTM.pdb
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\csc.exe
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\csc.exe.config
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\csc.rsp
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\csi.exe
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\csi.exe.config
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\csi.rsp
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.AppContext.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Collections.Immutable.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Console.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Globalization.Calendars.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.IO.Compression.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.IO.FileSystem.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Net.Http.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Net.Sockets.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Reflection.Metadata.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.ValueTuple.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Xml.XPath.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\vbc.exe
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\vbc.exe.config
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\vbc.rsp
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\VBCSCompiler.exe
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\roslyn\VBCSCompiler.exe.config
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\Microsoft.Web.Infrastructure.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Helpers.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Mvc.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Razor.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Webpages.Deployment.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Webpages.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Webpages.Razor.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Razor.xml
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Webpages.xml
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Webpages.Deployment.xml
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Webpages.Razor.xml
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Helpers.xml
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\System.Web.Mvc.xml
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\obj\Debug\LTM.csproj.AssemblyReference.cache
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\obj\Debug\LTM.csproj.CoreCompileInputs.cache
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\obj\Debug\LTM.csproj.CopyComplete
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\obj\Debug\LTM.dll
+E:\DHBK\Lap trinh mang\LTM\LTM\LTM\obj\Debug\LTM.pdb
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\LTM.dll.config
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\LTM.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\LTM.pdb
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\csc.exe
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\csc.exe.config
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\csc.rsp
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\csi.exe
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\csi.exe.config
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\csi.rsp
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.AppContext.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Collections.Immutable.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Console.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Globalization.Calendars.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.IO.Compression.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.IO.FileSystem.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Net.Http.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Net.Sockets.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Reflection.Metadata.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.ValueTuple.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Xml.XPath.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\vbc.exe
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\vbc.exe.config
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\vbc.rsp
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\VBCSCompiler.exe
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\roslyn\VBCSCompiler.exe.config
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\Microsoft.Web.Infrastructure.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Helpers.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Mvc.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Razor.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Webpages.Deployment.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Webpages.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Webpages.Razor.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Razor.xml
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Webpages.xml
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Webpages.Deployment.xml
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Webpages.Razor.xml
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Helpers.xml
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\System.Web.Mvc.xml
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\obj\Debug\LTM.csproj.AssemblyReference.cache
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\obj\Debug\LTM.csproj.CoreCompileInputs.cache
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\obj\Debug\LTM.csproj.CopyComplete
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\obj\Debug\LTM.dll
+E:\DHBK\Lap trinh mang\Du phong\LTM\LTM\LTM\obj\Debug\LTM.pdb
